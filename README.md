@@ -6,7 +6,7 @@ deviations of 3, 3, 2, 2 and 1, respectively.
 * MNIST dataset
 
 # Results
-![](Result_1D.gif | width=100) 
+<img src="Result_1D.gif" width="200"/>
 
 ![](Results_MNIST.gif)
 

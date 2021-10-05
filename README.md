@@ -6,11 +6,11 @@ deviations of 3, 3, 2, 2 and 1, respectively.
 * MNIST dataset
 
 # Results
-<img src="Result_1D.gif" width="200"/>
+<img src="Result_1D.gif" width="500"/>
 
-![](Results_MNIST.gif)
+<img src="Result_2D.gif" width="500"/>
 
-![](Results_2D.gif)
+<img src="Results_MNIST.gif" width="500"/>
 
 # Resources
 * [Ghosh, Arnab, et al. "Multi-agent diverse generative adversarial networks." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018.](http://openaccess.thecvf.com/content_cvpr_2018/papers/Ghosh_Multi-Agent_Diverse_Generative_CVPR_2018_paper.pdf)
